@@ -1,0 +1,16 @@
+h1{
+	color: white;
+	font- weight: bold;
+	font-size: 24px;
+}
+
+p{
+	color: rgb(100,100,100);
+	font-size: 20px;
+	font-family: "Courier New";
+}
+
+p a{
+	color: #000080;
+	font-weight: bold;
+}
